@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# WebAuthn Client
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository is a small project I'm working on to play around with the WebAuthn APIs. This is the client side that can communicate with the server which can be found in a [separate repository](https://github.com/kkwon1/webauthn-playground-service)
 
 ## Available Scripts
 
