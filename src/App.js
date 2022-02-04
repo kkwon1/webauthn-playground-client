@@ -8,7 +8,7 @@ const App = () => {
   const [username, setUsername] = useState("");
 
   const handleClick = () => {
-    if (username != "") {
+    if (username !== "") {
       axios
         .post("http://localhost:8080/register", {
           Username: username,
